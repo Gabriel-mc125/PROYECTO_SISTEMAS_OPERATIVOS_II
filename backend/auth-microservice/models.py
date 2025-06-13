@@ -1,0 +1,1 @@
+# Puedes definir modelos Pydantic aquí
